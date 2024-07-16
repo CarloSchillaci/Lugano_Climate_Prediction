@@ -1,6 +1,6 @@
-##Hackathon theme – Climate data
+# Hackathon theme – Climate data
 
-#Dataset – “openmeteo API”
+## Dataset – “openmeteo API”
 
 Climate and weather data through the openmeteo python library (https://open-meteo.com/)
 • Aggregates different sources and provides easy-to-use APIs for data retrieval
@@ -20,14 +20,14 @@ Sketch your query with the web-based interface (left)
 • Visualize the results or get the python code to read the data to pandas (right)
 • You can refine the query by editing the generated code (ex, extract multiple locations)
 
-#Objectives
+## Objectives
 
-1. Data gathering. 
+### 1. Data gathering. 
   – Use the Historical Weather API to extract the data you need:
   • Time range: January 1940 - now
   • Variables: “Temperature (2m)” and “Precipitation (rain + snow)”
   • Locations: Lugano + other cities of your choice
-2. Data Visualization 
+### 2. Data Visualization 
   – Visualize temperatures over the years at different resolutions (monthly, yearly)
   • What trends do you observe?
   • Are the trends consistent over the different locations?
